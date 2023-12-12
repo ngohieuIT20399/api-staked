@@ -1,0 +1,20 @@
+[
+  {
+    "totalLockStake": "23500273886167765536",
+    "totalClaimedRewards": "6346543268590270",
+    "stakedAmount": "23500273986167766944",
+    "id": "0x2743eec46576f76f47334569074242f3d9a90b44",
+    "createdOn": "1699420163",
+    "address": "0x2743eec46576f76f47334569074242f3d9a90b44",
+    "timeStamp": "08/11/2023 12:09:23"
+  },
+  {
+    "totalLockStake": "1198874597563989156283",
+    "totalClaimedRewards": "154320235708169511101",
+    "stakedAmount": "1678521109347075552789",
+    "id": "0x0175d94da85ab15401714f39e0de7d83f4c41384",
+    "createdOn": "1697020784",
+    "address": "0x0175d94da85ab15401714f39e0de7d83f4c41384",
+    "timeStamp": "11/10/2023 17:39:44"
+  }
+]
